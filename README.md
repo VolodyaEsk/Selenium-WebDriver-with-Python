@@ -1,2 +1,2 @@
 # Selenium-WebDriver-with-Python
-Tutorial Project
+Project for educational goals
