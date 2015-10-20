@@ -10,5 +10,6 @@ class TestSuite1(unittest.TestSuite):
 		suite.addTest(WaitForElements('test_WaitForSearchField'))
 		suite.addTest(WaitForElements('test_AssertTitle'))
 		return suite
-	if __name__ == '__main__':
-		unittest.main()
+
+if __name__ == '__main__':
+	unittest.main()
