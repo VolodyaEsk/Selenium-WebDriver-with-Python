@@ -17,3 +17,12 @@ ProductPageMap = dict(QuantityDropDownID     = "wsite-com-product-option-Quantit
 
 ShareOnFacebookPageMap = dict(ShareLinkButtonName = "share"
 )
+
+WelcomePageMap = dict(SeeCoolestPhotosButtonXpath = "(//span[@class='wsite-button-inner'])[1]",
+	                  SearchFieldName             = "q",
+	                  SearchSubmitButtonXpath     = "//span[@class='wsite-search-button']"
+
+)
+
+SearchResultsPageMap = dict( ProductImagesXpath = "//div[@title]"
+)

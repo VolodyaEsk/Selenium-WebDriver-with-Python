@@ -1,8 +1,8 @@
 
 TT_Constants = dict(Browser           = "firefox",
 	                Base_URL          = "http://travelingtony.weebly.com/",
-                    Facebook_Username = "tutorys123@gmail.com",
-                    Facebook_Password = "year2014"
+                    Facebook_Username = "calin4ik@bigmir.net",
+                    Facebook_Password = "20d12m88y"
 )
 
 class LocatorMode:
